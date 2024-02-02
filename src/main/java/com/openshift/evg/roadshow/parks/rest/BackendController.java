@@ -19,6 +19,6 @@ public class BackendController{
     public Backend get() {
         // return new Backend("nationalparks","National Parks", new Coordinates("47.039304", "14.505178"), 4);
         // return new Backend("nationalparks","Awesome National Parks", new Coordinates("47.039304", "14.505178"), 4);
-        return new Backend("nationalparks","Amazing National Parks", new Coordinates("47.039304", "14.505178"), 4);
+        return new Backend("nationalparks","Amazing National Parks - 素晴らしい国立公園 - ", new Coordinates("47.039304", "14.505178"), 4);
     }
 }
